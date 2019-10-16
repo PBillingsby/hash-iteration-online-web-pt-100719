@@ -16,3 +16,4 @@ def age_appropriate_birthday(birthday_kids)
     age <= 12 ? (puts "Happy Birthday #{kids_name}! You are now #{age} years old!") : (puts "You are too old for this.") #replaced if/else statement with ternary operator
   end
 end
+
